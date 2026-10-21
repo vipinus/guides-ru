@@ -31,4 +31,4 @@
 Как установить и войти — см. [Руководство по клиентам, статья 05](../client/05-tailscale-private-network.md).
 
 ---
-Подготовлено командой [LeoTun](https://www.leotun.com/ru?utm_source=github&utm_content=network-03) · Есть вопросы? Загляните на [страницу контактов](https://www.leotun.com/ru/contact?utm_source=github&utm_content=network-03) (там группы, почта и поддержка) · Зарегистрируйтесь и получите 4 часа бесплатно; пригласите друга — когда он оплатит, вы оба получите по 20 дней тарифа «Личный», без срока действия
+Подготовлено командой [LeoTun](https://www.leotun.com/ru?utm_source=github&utm_content=network-03) · Есть вопросы? Загляните на [страницу контактов](https://www.leotun.com/ru/contact?utm_source=github&utm_content=network-03) (там группы, почта и поддержка) · Зарегистрируйтесь и получите 4 часа бесплатно; пригласите друга — когда он оплатит, вы оба получите по 15 баллов (около 15 дней тарифа «Личный»), без срока действия

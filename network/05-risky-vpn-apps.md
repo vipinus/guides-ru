@@ -66,4 +66,4 @@ VPN работает на уровне системы: через него ид�
 Версия этой статьи на сайте: https://www.leotun.com/ru/guides/risky-vpn-apps?utm_source=github&utm_content=network-05
 
 ---
-Подготовлено командой [LeoTun](https://www.leotun.com/ru?utm_source=github&utm_content=network-05) · Есть вопросы? Загляните на [страницу контактов](https://www.leotun.com/ru/contact?utm_source=github&utm_content=network-05) (там группы, почта и поддержка) · Зарегистрируйтесь и получите 4 часа бесплатно; пригласите друга — когда он оплатит, вы оба получите по 20 дней тарифа «Личный», без срока действия
+Подготовлено командой [LeoTun](https://www.leotun.com/ru?utm_source=github&utm_content=network-05) · Есть вопросы? Загляните на [страницу контактов](https://www.leotun.com/ru/contact?utm_source=github&utm_content=network-05) (там группы, почта и поддержка) · Зарегистрируйтесь и получите 4 часа бесплатно; пригласите друга — когда он оплатит, вы оба получите по 15 баллов (около 15 дней тарифа «Личный»), без срока действия
