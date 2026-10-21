@@ -96,4 +96,4 @@
 - [Tencent Video за рубежом пишет про ограничения по авторским правам: что делать](https://www.leotun.com/ru/guides/overseas-video?utm_source=github&utm_content=troubleshooting-08)
 
 ---
-Подготовлено командой [LeoTun](https://www.leotun.com/ru?utm_source=github&utm_content=troubleshooting-08) · Есть вопросы? Загляните на [страницу контактов](https://www.leotun.com/ru/contact?utm_source=github&utm_content=troubleshooting-08) (там группы, почта и поддержка) · Зарегистрируйтесь и получите 24 часа бесплатно; пригласите друга — когда он оплатит, вы оба получите по 20 дней тарифа «Личный», без срока действия
+Подготовлено командой [LeoTun](https://www.leotun.com/ru?utm_source=github&utm_content=troubleshooting-08) · Есть вопросы? Загляните на [страницу контактов](https://www.leotun.com/ru/contact?utm_source=github&utm_content=troubleshooting-08) (там группы, почта и поддержка) · Зарегистрируйтесь и получите 4 часа бесплатно; пригласите друга — когда он оплатит, вы оба получите по 20 дней тарифа «Личный», без срока действия

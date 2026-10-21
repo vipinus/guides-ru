@@ -36,4 +36,4 @@
 - Не публикуйте в группах файлы конфигурации, QR-коды и ссылки подписки — это всё равно что ваш аккаунт.
 
 ---
-Подготовлено командой [LeoTun](https://www.leotun.com/ru?utm_source=github&utm_content=troubleshooting-05) · Есть вопросы? Загляните на [страницу контактов](https://www.leotun.com/ru/contact?utm_source=github&utm_content=troubleshooting-05) (там группы, почта и поддержка) · Зарегистрируйтесь и получите 24 часа бесплатно; пригласите друга — когда он оплатит, вы оба получите по 20 дней тарифа «Личный», без срока действия
+Подготовлено командой [LeoTun](https://www.leotun.com/ru?utm_source=github&utm_content=troubleshooting-05) · Есть вопросы? Загляните на [страницу контактов](https://www.leotun.com/ru/contact?utm_source=github&utm_content=troubleshooting-05) (там группы, почта и поддержка) · Зарегистрируйтесь и получите 4 часа бесплатно; пригласите друга — когда он оплатит, вы оба получите по 20 дней тарифа «Личный», без срока действия

@@ -28,4 +28,4 @@
 - [Чек-лист: не подключается, медленно, обрывается](../troubleshooting/01-cannot-connect-slow-drops.md)
 
 ---
-Подготовлено командой [LeoTun](https://www.leotun.com/ru?utm_source=github&utm_content=network-01) · Есть вопросы? Загляните на [страницу контактов](https://www.leotun.com/ru/contact?utm_source=github&utm_content=network-01) (там группы, почта и поддержка) · Зарегистрируйтесь и получите 24 часа бесплатно; за каждого приглашённого друга, который оплатит, вы оба получаете по 20 дней тарифа «Личный» — акция бессрочная
+Подготовлено командой [LeoTun](https://www.leotun.com/ru?utm_source=github&utm_content=network-01) · Есть вопросы? Загляните на [страницу контактов](https://www.leotun.com/ru/contact?utm_source=github&utm_content=network-01) (там группы, почта и поддержка) · Зарегистрируйтесь и получите 4 часа бесплатно; за каждого приглашённого друга, который оплатит, вы оба получаете по 20 дней тарифа «Личный» — акция бессрочная
